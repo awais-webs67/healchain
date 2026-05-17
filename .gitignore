@@ -58,3 +58,6 @@ macos/Flutter/ephemeral/
 .env
 api.txt
 firebase-adminsdk*.json
+
+# Allow shared debug keystore
+!android/debug.keystore
